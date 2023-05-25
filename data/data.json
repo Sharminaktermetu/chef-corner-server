@@ -1,19 +1,56 @@
 [
-    {
-      "id": 1,
-      "category": "Books"
-    },
-    {
-      "id": 2,
-      "category": "Electronics"
-    },
-    {
-      "id": 3,
-      "category": "Clothing"
-    },
-    {
-      "id": 4,
-      "category": "Home Decor"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "picture": "chef1.jpg",
+    "name": "Gordon Ramsay",
+    "years_of_experience": 30,
+    "number_of_recipes": 250,
+    "likes": 5000,
+    "short_bio": "Renowned British chef known for his fiery personality and Michelin-starred restaurants."
+  },
+  {
+    "id": 2,
+    "picture": "chef2.jpg",
+    "name": "Julia Child",
+    "years_of_experience": 40,
+    "number_of_recipes": 200,
+    "likes": 3500,
+    "short_bio": "Iconic American chef and television personality who introduced French cuisine to a wide audience."
+  },
+  {
+    "id": 3,
+    "picture": "chef3.jpg",
+    "name": "Massimo Bottura",
+    "years_of_experience": 25,
+    "number_of_recipes": 180,
+    "likes": 3000,
+    "short_bio": "Acclaimed Italian chef known for his innovative approach to traditional Italian cuisine."
+  },
+  {
+    "id": 4,
+    "picture": "chef4.jpg",
+    "name": "Anthony Bourdain",
+    "years_of_experience": 20,
+    "number_of_recipes": 150,
+    "likes": 2800,
+    "short_bio": "Renowned chef, author, and TV host who brought global cuisines and cultures to television audiences."
+  },
+  {
+    "id": 5,
+    "picture": "chef5.jpg",
+    "name": "Nigella Lawson",
+    "years_of_experience": 18,
+    "number_of_recipes": 120,
+    "likes": 2500,
+    "short_bio": "British chef, author, and television personality known for her indulgent and comforting recipes."
+  },
+  {
+    "id": 6,
+    "picture": "chef6.jpg",
+    "name": "Jamie Oliver",
+    "years_of_experience": 22,
+    "number_of_recipes": 200,
+    "likes": 4000,
+    "short_bio": "Popular British chef and campaigner for healthier school meals and home cooking."
+  }
+]
